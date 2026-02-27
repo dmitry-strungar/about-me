@@ -58,7 +58,9 @@ Qualification: BI Analyst
 ## Contacts
 
 Email: dmitry.strungar@gmail.com
+
 Telegram: @dmitry_strungar  
+
 Location: Russia
 
 ---
