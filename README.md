@@ -1,70 +1,70 @@
-# Dmitry Strungar — BI Analyst (Junior)
+# Дмитрий Струнгарь — BI-Аналитик (Junior)
 
-## About Me
+## Обо мне
 
-I am a Junior BI Analyst with practical experience in data analysis, SQL, Python, and BI tools. I focus on transforming raw data into clear insights and interactive dashboards to support business decision-making.
+Я — Junior BI-Аналитик с практическим опытом в анализе данных, SQL, Python и BI-инструментах. Моя задача — преобразовывать сырые данные в понятные инсайты и интерактивные дашборды для поддержки принятия бизнес-решений.
 
-I completed a professional retraining program in BI Analytics, where I developed analytical solutions including product analytics, customer segmentation, SQL-based analysis, and management dashboards.
+Я прошёл программу профессиональной переподготовки по BI-аналитике, в рамках которой разрабатывал аналитические решения, включая продуктовую аналитику, сегментацию клиентов, SQL-анализ и управленческие дашборды.
 
-My portfolio demonstrates the full analytics workflow: data preparation, metric calculation, analysis, and visualization.
+Моё портфолио демонстрирует полный аналитический цикл: подготовку данных, расчет метрик, анализ и визуализацию.
 
-I am currently seeking a Junior BI Analyst position where I can contribute to business analytics and continue developing my skills in a commercial environment.
+В настоящее время я ищу позицию Junior BI-Аналитика, где смогу применять аналитические навыки и продолжать развиваться в коммерческой среде.
 
 ---
 
-## Technical Skills
+## Технические навыки
 
-**BI & Visualization**
-- Power BI (Data Modeling, DAX, Power Query)
+**BI и визуализация**
+- Power BI (моделирование данных, DAX, Power Query)
 - Tableau
 - Yandex DataLens
 
-**Data Analysis**
-- SQL (PostgreSQL): JOIN, CTE, window functions, aggregations
+**Анализ данных**
+- SQL (PostgreSQL): JOIN, CTE, оконные функции, агрегирование
 - Python: pandas, NumPy, Matplotlib
-- Excel (analytical calculations and data preparation)
+- Excel (аналитические расчеты и подготовка данных)
 
-**Analytics & Methods**
-- Product analytics (conversion, retention, funnels)
-- Customer segmentation and LTV analysis
-- A/B testing and hypothesis testing
-- Business metrics and performance analysis
-
----
-
-## Portfolio Projects
-
-My GitHub portfolio includes projects in:
-
-- Product analytics (funnel, retention, monetization)
-- BI dashboards for business and management reporting
-- SQL analysis of business operations
-- Customer analytics and LTV analysis
-- Statistical analysis in Python
-- Market and business analysis
-
-Portfolio repositories are available in this profile.
+**Аналитика и методы**
+- Продуктовая аналитика (конверсия, retention, воронки)
+- Сегментация клиентов и анализ LTV
+- A/B-тестирование и проверка гипотез
+- Анализ бизнес-метрик и эффективности
 
 ---
 
-## Education
+## Проекты портфолио
 
-Professional Retraining — BI Analyst  
-Netology, 2025–2026  
-Qualification: BI Analyst
+Моё портфолио на GitHub включает проекты в области:
 
----
+- Продуктовой аналитики (воронка, retention, монетизация)
+- BI-дашбордов для бизнес- и управленческой отчетности
+- SQL-анализа бизнес-операций
+- Клиентской аналитики и анализа LTV
+- Статистического анализа в Python
+- Рыночной и бизнес-аналитики
 
-## Contacts
-
-Email: dmitry.strungar@gmail.com
-
-Telegram: https://t.me/@dmitry_strungar
-
-Location: Russia
+Репозитории портфолио доступны в данном профиле.
 
 ---
 
-## Career Objective
+## Образование
 
-Seeking a Junior BI Analyst position to apply analytical skills, work with real business data, and grow into a strong BI specialist.
+Профессиональная переподготовка — BI-Аналитик  
+Нетология, 2025–2026  
+Квалификация: BI-Аналитик
+
+---
+
+## Контакты
+
+Email: dmitry.strungar@gmail.com  
+
+Telegram: https://t.me/@dmitry_strungar  
+
+Локация: Россия
+
+---
+
+## Карьерная цель
+
+Ищу позицию Junior BI-Аналитика для применения аналитических навыков, работы с реальными бизнес-данными и дальнейшего развития до уровня сильного BI-специалиста.
