@@ -66,4 +66,4 @@ Location: Russia
 
 ## Career Objective
 
-To get my first professional job in data analytics, where I can apply data analysis and visualization tools to solve business problems and support decision making.
+To obtain a professional job in the field of data analytics, where I can apply data analysis and visualization tools to solve business problems and support decision making.
