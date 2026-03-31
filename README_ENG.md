@@ -6,7 +6,7 @@ I am a BI Analyst with practical experience in data analysis, SQL, Python, and B
 
 I completed a professional retraining program in BI Analytics, where I developed analytical solutions including product analytics, customer segmentation, SQL-based analysis, and management dashboards.
 
-My portfolio demonstrates the full analytics workflow: data preparation, metric calculation, analysis, and visualization.
+My portfolio demonstrates: data preparation, metrics calculation, analysis and visualization.
 
 I am currently seeking a BI Analyst position where I can contribute to business analytics and continue developing my skills in a commercial environment.
 
