@@ -10,6 +10,8 @@ My portfolio demonstrates: data preparation, metrics calculation, analysis and v
 
 I am currently seeking a BI Analyst position where I can contribute to business analytics and continue developing my skills in a commercial environment.
 
+A certificate of completion of the course is available in the repository.  
+
 ---
 
 ## Technical Skills
