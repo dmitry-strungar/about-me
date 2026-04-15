@@ -1,14 +1,14 @@
-# Dmitry Strungar - BI Analyst
+# Dmitry Strungar - Data Analyst
 
 ## About Me
 
-I am a BI Analyst with practical experience in data analysis, SQL, Python, and BI tools. I focus on transforming raw data into clear insights and interactive dashboards to support business decision-making.
+I am a Data Analyst with practical experience in data analysis, SQL, Python, and BI tools. I focus on transforming raw data into clear insights and interactive dashboards to support business decision-making.
 
 I completed a professional retraining program in BI Analytics, where I developed analytical solutions including product analytics, customer segmentation, SQL-based analysis, and management dashboards.
 
 My portfolio demonstrates: data preparation, metrics calculation, analysis and visualization.
 
-I am currently seeking a BI Analyst position where I can contribute to business analytics and continue developing my skills in a commercial environment.
+I am currently seeking a Data Analyst position where I can contribute to business analytics and continue developing my skills in a commercial environment.
 
 A certificate of completion of the course is available in the repository.  
 
