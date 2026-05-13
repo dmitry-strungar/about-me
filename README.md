@@ -3,6 +3,7 @@
 ## Обо мне
 
 Аналитик данных с практическим опытом в продуктовой и BI-аналитике. Работал с PostgreSQL, ClickHouse, Python, Power BI, Tableau, Superset, Metabase.  
+
 Знаком с основами ETL (Airflow), умею настраивать Docker, работать с Git и Jira.  
 Понимаю бизнес-метрики (LTV, CAC, retention), проводил A/B-тесты и когортный анализ.  
 
