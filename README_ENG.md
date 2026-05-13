@@ -2,35 +2,40 @@
 
 ## About Me
 
-I am a Data Analyst with practical experience in data analysis, SQL, Python, and BI tools. I focus on transforming raw data into clear insights and interactive dashboards to support business decision-making.
+Data Analyst with hands-on experience in product and BI analytics. Worked with PostgreSQL, ClickHouse, Python, Power BI, Tableau, Superset, and Metabase.  
+Familiar with ETL basics (Airflow), Docker setup, Git, and Jira.  
+Understand key business metrics (LTV, CAC, retention), performed A/B tests and cohort analysis.
 
-I completed a professional retraining program in BI Analytics, where I developed analytical solutions including product analytics, customer segmentation, SQL-based analysis, and management dashboards.
+Completed a professional retraining program in BI Analytics. My portfolio includes projects ranging from product analytics to executive dashboards.
 
-My portfolio demonstrates: data preparation, metrics calculation, analysis and visualization.
+Looking for a Data Analyst / BI Analyst position where I can contribute through metric analysis, identifying growth points, and data visualization to support business decisions.
 
-I am currently seeking a Data Analyst position where I can contribute to business analytics and continue developing my skills in a commercial environment.
-
-A certificate of completion of the course is available in the repository.  
+A course completion certificate is available in the repository.
 
 ---
 
 ## Technical Skills
 
-**BI & Visualization**
-- Power BI (Data Modeling, DAX, Power Query)
-- Tableau
-- Yandex DataLens
+**Databases**  
+`PostgreSQL` `ClickHouse`
 
-**Data Analysis**
-- SQL (PostgreSQL): JOIN, CTE, window functions, aggregations
-- Python: Pandas, NumPy, Matplotlib, Seaborn
-- Excel (analytical calculations and data preparation)
+**Python**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
 
-**Analytics & Methods**
-- Product analytics (conversion, retention, funnels)
-- Customer segmentation and LTV analysis
-- A/B testing and hypothesis testing
-- Business metrics and performance analysis
+**BI & Visualization**  
+`Power BI` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`
+
+**ETL & Containerization**  
+`Apache Airflow` `Docker` `Git`
+
+**Task Management**  
+`Jira`
+
+**Analytics & Methods**  
+`cohort analysis` `retention` `funnels` `A/B testing` `data marts` `ETL`
+
+**Tools**  
+`Excel` `Power Query`
 
 ---
 
@@ -38,15 +43,14 @@ A certificate of completion of the course is available in the repository.
 
 My portfolio includes projects in:
 
-- Product analytics (funnel, retention, monetization)
+- Product analytics (funnels, retention, monetization, A/B testing)
 - BI dashboards for business and management reporting
 - SQL analysis of business operations
 - Customer analytics and LTV analysis
 - Statistical analysis in Python
-- Market and business analysis
+- ETL pipelines and reporting automation
 
 Portfolio repositories are available in this profile.
-
 ---
 
 ## Education
