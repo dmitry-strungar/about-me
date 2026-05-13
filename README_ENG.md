@@ -51,6 +51,7 @@ My portfolio includes projects in:
 - ETL pipelines and reporting automation
 
 Portfolio repositories are available in this profile.
+
 ---
 
 ## Education
