@@ -3,6 +3,7 @@
 ## About Me
 
 Data Analyst with hands-on experience in product and BI analytics. Worked with PostgreSQL, ClickHouse, Python, Power BI, Tableau, Superset, and Metabase.  
+
 Familiar with ETL basics (Airflow), Docker setup, Git, and Jira.  
 Understand key business metrics (LTV, CAC, retention), performed A/B tests and cohort analysis.
 
