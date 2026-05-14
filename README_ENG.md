@@ -2,16 +2,15 @@
 
 ## About Me
 
-Data Analyst with hands-on experience in product and BI analytics. Worked with PostgreSQL, ClickHouse, Python, Power BI, Tableau, Superset, and Metabase.  
+Data Analyst. I handle analytics from data collection and preparation to automated reporting and visualization.  
 
-Familiar with ETL basics (Airflow), Docker setup, Git, and Jira.  
-Understand key business metrics (LTV, CAC, retention), performed A/B tests and cohort analysis.
+I've configured ETL pipelines, worked with various BI systems, built product funnels, data marts, and dashboards for management and marketing. I've conducted A/B testing, cohort analysis, and calculated LTV, CAC, and retention.  
 
-Completed a professional retraining program in BI Analytics. My portfolio includes projects ranging from product analytics to executive dashboards.
+I'm considering Data Analyst positions where I can deliver value through metric analysis, identifying growth opportunities, and data visualization to support business decisions.  
 
-Looking for a Data Analyst / BI Analyst position where I can contribute through metric analysis, identifying growth points, and data visualization to support business decisions.
+I've completed a professional retraining program in BI analytics. My portfolio includes projects ranging from product analytics to management dashboards.  
 
-A course completion certificate is available in the repository.
+A certificate of completion is available in the repository.  
 
 ---
 
