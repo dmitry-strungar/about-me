@@ -2,11 +2,9 @@
 
 ## About Me
 
-Data Analyst. I handle analytics from data collection and preparation to automated reporting and visualization.  
-
-I've configured ETL pipelines, worked with various BI systems, built product funnels, data marts, and dashboards for management and marketing. I've conducted A/B testing, cohort analysis, and calculated LTV, CAC, and retention.  
-
-I'm considering Data Analyst positions where I can deliver value through metric analysis, identifying growth opportunities, and data visualization to support business decisions.  
+Data Analyst with a portfolio of nine projects in product analytics, ETL, and BI visualization.  
+I specialize in collecting, processing, and analyzing data using SQL and Python, building ETL pipelines, automating reporting, and creating dashboards.  
+I've worked with key metrics (LTV, CAC, retention, conversion), conducted A/B testing, cohort analysis, researched user behavior, and formulated hypotheses for product optimization.
 
 I've completed a professional retraining program in BI analytics. My portfolio includes projects ranging from product analytics to management dashboards.  
 
