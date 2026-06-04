@@ -21,7 +21,7 @@ Data Analyst с портфолио из 9 проектов в области п�
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `SciPy`
 
 **BI и визуализация**  
-`Power BI` `Power Query` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`
+`Power BI` `Power Query` `DAX` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`
 
 **ETL и контейнеризация**  
 `Apache Airflow` `Docker` `Git` `GitHub`
@@ -33,7 +33,7 @@ Data Analyst с портфолио из 9 проектов в области п�
 `Когортный анализ` `Retention` `Воронки` `A/B-тесты` `Проверка статистических гипотез (p-value)` `Витрины данных` `ETL`
 
 **Инструменты**  
-`MS Excel` `Power Query` `DAX`
+`MS Excel` `Power Query`
 
 ---
 
