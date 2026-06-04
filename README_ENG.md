@@ -14,26 +14,26 @@ A certificate of completion is available in the repository.
 
 ## Technical Skills
 
-**Databases**  
-`PostgreSQL` `ClickHouse`
+**SQL & Databases**  
+`SQL` `PostgreSQL` `ClickHouse`
 
 **Python**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `SciPy`
 
 **BI & Visualization**  
-`Power BI` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`
+`Power BI` `DAX` `Power Query` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`
 
 **ETL & Containerization**  
-`Apache Airflow` `Docker` `Git`
+`Apache Airflow` `Docker` `Git` `GitHub`
 
-**Task Management**  
-`Jira`
+**Project Management**  
+`Atlassian Jira`
 
 **Analytics & Methods**  
-`cohort analysis` `retention` `funnels` `A/B testing` `data marts` `ETL`
+`Cohort analysis` `Retention` `Funnels` `A/B testing` `Statistical hypothesis testing (p-value)` `Data marts` `ETL`
 
 **Tools**  
-`Excel` `Power Query`
+`MS Excel` `Power Query`
 
 ---
 
