@@ -14,26 +14,26 @@ Data Analyst с портфолио из 9 проектов в области п�
 
 ## Технические навыки
 
-**Базы данных**  
-`PostgreSQL` `ClickHouse`
+**SQL и базы данных**  
+`SQL` `PostgreSQL` `ClickHouse`
 
 **Python**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `SciPy`
 
 **BI и визуализация**  
-`Power BI` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`
+`Power BI` `DAX` `Power Query` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`
 
 **ETL и контейнеризация**  
-`Apache Airflow` `Docker` `Git`
+`Apache Airflow` `Docker` `Git` `GitHub`
 
 **Управление задачами**  
-`Jira`
+`Atlassian Jira`
 
 **Аналитика и методы**  
-`когортный анализ` `retention` `воронки` `A/B-тесты` `витрины данных` `ETL`
+`Когортный анализ` `Retention` `Воронки` `A/B-тесты` `Проверка статистических гипотез (p-value)` `Витрины данных` `ETL`
 
 **Инструменты**  
-`Excel` `Power Query`
+`MS Excel` `Power Query`
 
 ---
 
