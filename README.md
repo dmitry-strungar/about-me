@@ -70,3 +70,5 @@ Email: dmitry.strungar@gmail.com
 Telegram: https://t.me/dmitry_strungar  
 
 Локация: Россия
+
+---
