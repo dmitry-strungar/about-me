@@ -70,9 +70,3 @@ Email: dmitry.strungar@gmail.com
 Telegram: https://t.me/dmitry_strungar
 
 Location: Russia
-
----
-
-## Career Objective
-
-To obtain a professional job in the field of data analytics, where I can apply data analysis and visualization tools to solve business problems and support decision making.
