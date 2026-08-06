@@ -3,8 +3,11 @@
 ## About Me
 
 Data Analyst with a portfolio of nine projects in product analytics, ETL, and BI visualization.  
+
 I specialize in collecting, processing, and analyzing data using SQL and Python, building ETL pipelines, automating reporting, and creating dashboards.  
+
 I've worked with key metrics (LTV, CAC, Retention, Conversion), conducted A/B testing, cohort analysis, researched user behavior, and formulated hypotheses for product optimization.  
+
 I use AI tools to automate routine tasks: generating code drafts and queries, optimizing DAX, Python, and SQL queries, formulating and testing hypotheses, and preparing structured analytical conclusions.  
 
 I've completed a professional retraining program in BI analytics. My portfolio includes projects ranging from product analytics to management dashboards.  
