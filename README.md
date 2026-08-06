@@ -72,6 +72,8 @@ Email: dmitry.strungar@gmail.com
 
 Telegram: https://t.me/dmitry_strungar  
 
+HH Сетка: https://setka.ru/users/019d426a-e8c1-7683-846f-bb2597d25080  
+
 Локация: Россия
 
 ---
