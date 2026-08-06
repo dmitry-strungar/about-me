@@ -36,7 +36,7 @@ Data Analyst с портфолио из 9 проектов в области п�
 **Инструменты**  
 `MS Excel` `Power Query`
 
-**AI-инструменты**
+**AI-инструменты**  
 `ChatGPT` `DeepSeek`
 
 ---
