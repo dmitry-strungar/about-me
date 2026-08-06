@@ -70,7 +70,9 @@ Netology, 2025-2026
 
 Email: dmitry.strungar@gmail.com
 
-Telegram: https://t.me/dmitry_strungar
+Telegram: https://t.me/dmitry_strungar  
+
+HH Setka: https://setka.ru/users/019d426a-e8c1-7683-846f-bb2597d25080  
 
 Location: Russia
 
